@@ -27,7 +27,5 @@ A full-stack **Java Web Application** for managing employee leave requests. Buil
 | IDE           | NetBeans                        |
 | Architecture  | MVC (Model-View-Controller)     |
 
----
 
-## 📂 Project Structure
 
